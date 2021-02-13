@@ -1,8 +1,3 @@
-# Simple Denegacion de servicios
-# Twitter: @Arturo1337
-# Version: 0.1
-# Programacion Estructurada
-
 import requests, os, sys # Modulos 
 
 # Variables
@@ -32,5 +27,3 @@ while peticiones<=100:
     
     # indicador de que se esta ejecutando el proceso
  print "Atacando Servidor -------->", host
- 
- 
